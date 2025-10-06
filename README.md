@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 Passionate learner and developer who loves building **full-stack web apps**, exploring **DSA**,  
 and working with **modern technologies**.  
 Currently learning **Spring Boot, React, and MongoDB**,  
@@ -23,7 +23,7 @@ while improving my **C++ and Java** problem-solving skills.
 
 ---
 
-### 🧠 Technical Skills
+###  Technical Skills
 
 **Languages:** Java, C++, Python  
 **Frameworks:** Spring Boot, React.js, Node.js  
@@ -32,18 +32,18 @@ while improving my **C++ and Java** problem-solving skills.
 
 ---
 
-### 📄 My Resume
+###  My Resume
 📎 [View My Resume (PDF)](https://drive.google.com/file/d/1pNpEkQl1Ky1icCJeNCQ27sGEmm-STUqk/view?usp=drivesdk)
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 ![Dhavamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavamani16&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&layout=compact&theme=radical)
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 [![LinkedIn](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?logo=firefox&logoColor=white)](https://your-portfolio-link)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](kit27.cse16@gmail.com)
