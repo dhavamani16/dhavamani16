@@ -78,7 +78,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ##  My LeetCode Stats
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&ext=heatmap)
-[![CodeChef](https://codechef-readme-stats.vercel.app/api/user?username=dhavamani_16)](https://www.codechef.com/users/dhavamani_16)
+[![CodeChef](https://codechef-readme-stats.vercel.app/api/user?username=dhavamani_16&showTitle=true&theme=dark)](https://www.codechef.com/users/dhavamani_16)
 
 ---
 
