@@ -96,6 +96,61 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/)
 [![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/DHAVAMANIA)
 
+---
+
+<h2 align="center">🌟 Popular Repositories</h2>
+
+<div align="center">
+
+  <!-- Repo 1 -->
+  <fieldset style="display:inline-block; width:45%; margin:10px; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF; vertical-align:top;">
+    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">💰 Expanse Tracker</legend>
+    <p>Java-based expense management system using Swing and MySQL.</p>
+    <img src="https://raw.githubusercontent.com/dhavamani16/ExpanseTrack/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
+    <p>
+      <a href="https://github.com/dhavamani16/ExpanseTrack">
+        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+  </fieldset>
+
+  <!-- Repo 2 -->
+  <fieldset style="display:inline-block; width:45%; margin:10px; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF; vertical-align:top;">
+    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🛒 E-Commerce App</legend>
+    <p>Full-stack web application with Spring Boot and Maven.</p>
+    <img src="https://raw.githubusercontent.com/dhavamani16/Ecommerce/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
+    <p>
+      <a href="https://github.com/dhavamani16/Ecommerce">
+        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+  </fieldset>
+
+  <!-- Repo 3 -->
+  <fieldset style="display:inline-block; width:45%; margin:10px; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF; vertical-align:top;">
+    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🌐 Portfolio Website</legend>
+    <p>Personal portfolio website using HTML, CSS, and JavaScript.</p>
+    <img src="https://raw.githubusercontent.com/dhavamani16/Portfolio/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
+    <p>
+      <a href="https://github.com/dhavamani16/Portfolio">
+        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+  </fieldset>
+
+  <!-- Repo 4 -->
+  <fieldset style="display:inline-block; width:45%; margin:10px; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF; vertical-align:top;">
+    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🧩 LeetCode Solutions</legend>
+    <p>Collection of algorithm & DSA solutions in C++, Java, and Python.</p>
+    <img src="https://raw.githubusercontent.com/dhavamani16/LeetCode/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
+    <p>
+      <a href="https://github.com/dhavamani16/LeetCode">
+        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+  </fieldset>
+
+</div>
 
 
 
