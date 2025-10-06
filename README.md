@@ -98,59 +98,82 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-<h2 align="center">🌟 Popular Repositories</h2>
+<h2 align="center">🌟 Projects</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap:20px;">
+<table align="center" cellspacing="20">
 
-  <!-- Row 1, Column 1 -->
-  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
-    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">💰 Expanse Tracker</legend>
-    <p>Java-based expense management system using Swing and MySQL.</p>
-    <img src="https://raw.githubusercontent.com/dhavamani16/ExpanseTrack/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
-    <p>
-      <a href="https://github.com/dhavamani16/ExpanseTrack">
-        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </p>
-  </fieldset>
+  <!-- Row 1 -->
+  <tr>
+    <!-- Project 1 -->
+    <td>
+      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
+        <legend style="font-weight:bold; color:#7B2CBF;">🧩 LeetCode Solutions</legend>
+        <p><strong>Tech:</strong> C++</p>
+        <p><strong>Category:</strong> Easy, Medium, Hard</p>
+        <p><strong>Description:</strong> Comprehensive collection of algorithm & DSA solutions covering all difficulty levels.</p>
+        <p><strong>Features:</strong> Efficient problem-solving, categorized problems, common algorithm patterns.</p>
+        <p>
+          <a href="https://leetcode.com/yourusername/">
+            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+          </a>
+        </p>
+      </fieldset>
+    </td>
 
-  <!-- Row 1, Column 2 -->
-  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
-    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🛒 E-Commerce App</legend>
-    <p>Full-stack web application with Spring Boot and Maven.</p>
-    <img src="https://raw.githubusercontent.com/dhavamani16/Ecommerce/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
-    <p>
-      <a href="https://github.com/dhavamani16/Ecommerce">
-        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </p>
-  </fieldset>
+    <!-- Project 2 -->
+    <td>
+      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
+        <legend style="font-weight:bold; color:#7B2CBF;">📝 TodoList Maven</legend>
+        <p><strong>Tech:</strong> Java, Maven</p>
+        <p><strong>Category:</strong> Database</p>
+        <p><strong>Description:</strong> CLI Todo application for managing tasks efficiently.</p>
+        <p><strong>Features:</strong> Add/update/delete tasks, priority management, data persistence.</p>
+        <p>
+          <a href="https://github.com/dhavamani16/TodoMaven">
+            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </fieldset>
+    </td>
+  </tr>
 
-  <!-- Row 2, Column 1 -->
-  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
-    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🌐 Portfolio Website</legend>
-    <p>Personal portfolio website using HTML, CSS, and JavaScript.</p>
-    <img src="https://raw.githubusercontent.com/dhavamani16/Portfolio/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
-    <p>
-      <a href="https://github.com/dhavamani16/Portfolio">
-        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </p>
-  </fieldset>
+  <!-- Row 2 -->
+  <tr>
+    <!-- Project 3 -->
+    <td>
+      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
+        <legend style="font-weight:bold; color:#7B2CBF;">💰 Expense Tracker</legend>
+        <p><strong>Tech:</strong> Java, Maven</p>
+        <p><strong>Category:</strong> Database</p>
+        <p><strong>Description:</strong> Track income and expenses with visual dashboard and reports.</p>
+        <p><strong>Features:</strong> CRUD transactions, charts, financial analysis, priorities.</p>
+        <p>
+          <a href="https://github.com/dhavamani16/ExpenseTracker">
+            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </fieldset>
+    </td>
 
-  <!-- Row 2, Column 2 -->
-  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
-    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🧩 LeetCode Solutions</legend>
-    <p>Collection of algorithm & DSA solutions in C++, Java, and Python.</p>
-    <img src="https://raw.githubusercontent.com/dhavamani16/LeetCode/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
-    <p>
-      <a href="https://github.com/dhavamani16/LeetCode">
-        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </p>
-  </fieldset>
+    <!-- Project 4 -->
+    <td>
+      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
+        <legend style="font-weight:bold; color:#7B2CBF;">🛒 E-Commerce Website</legend>
+        <p><strong>Tech:</strong> Java, Maven, Spring</p>
+        <p><strong>Category:</strong> Database / Full-Stack</p>
+        <p><strong>Description:</strong> Full-stack web application for online shopping with admin dashboard.</p>
+        <p><strong>Features:</strong> User authentication, product & order management, secure checkout.</p>
+        <p>
+          <a href="https://github.com/dhavamani16/Ecommerce">
+            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </fieldset>
+    </td>
+  </tr>
 
-</div>
+</table>
+
 
 
 <!--
