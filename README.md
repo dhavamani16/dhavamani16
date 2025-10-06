@@ -75,14 +75,13 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-## 🧠 My LeetCode Stats
+##  My LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Dhavamani_16/)
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&ext=heatmap)
 
 ---
 
-## 🔗 Connect with me
+##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhavamani16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/)
