@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://pngmagic.com/product_images/professional-background-images-for-corporate-presentations_1LH.jpg" width="800"/>
+  <img src="assets/banner.png" width="800" />
 </p>
-
-<h2 align="center">✨ Dhavamani A ✨</h2>
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://img.freepik.com/premium-photo/white-black-geometric-squares-white-background-wallpaper_975254-169.jpg?w=996" width="800" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
+              font-size: 48px; font-weight: bold; color: black; background: rgba(255,255,255,0.5); padding: 10px;">
+    Dhavamani A
+  </div>
+</div>
 
 
 <table>
