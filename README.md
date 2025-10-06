@@ -78,7 +78,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ## 🧠 My LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Dhavamani_16/)
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark)](https://leetcode.com/u/Dhavamani_16/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&ext=heatmap)
 
 ---
 
