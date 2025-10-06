@@ -1,4 +1,4 @@
-## Hi there I am Dhavamani👋
+## Hi👋 I am Dhavamani
 
 
 
