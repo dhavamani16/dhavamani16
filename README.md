@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://pngmagic.com/product_images/professional-background-images-for-corporate-presentations_1LH.jpg" width="800"/>
+</p>
 
+<h2 align="center">✨ Dhavamani A ✨</h2>
 
-# Dhavamani A
 
 <table>
 <tr>
