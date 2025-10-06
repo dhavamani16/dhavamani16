@@ -49,6 +49,9 @@ while improving my **C++ and Java** problem-solving skills.
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?logo=firefox&logoColor=white)](https://your-portfolio-link)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](kit27.cse16@gmail.com)
 
+[My LeetCode Profile](https://leetcode.com/u/Dhavamani_16/)
+
+
 
 <!--
 **dhavamani16/dhavamani16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
