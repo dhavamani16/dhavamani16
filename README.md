@@ -61,7 +61,6 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1pNpEkQl1Ky1icCJeNCQ27sGEmm-STUqk/view?usp=drivesdk)
 
-
 ---
 
 ###  GitHub Stats
