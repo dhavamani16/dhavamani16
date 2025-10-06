@@ -123,8 +123,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
         <legend style="font-weight:bold; color:#7B2CBF;"> TodoList </legend>
-        <p><strong>Tech:</strong> Java, Maven</p>
-        <p><strong>Category:</strong> Database</p>
+        <p><strong>Tech:</strong> Java, Maven,Database</p>
         <p><strong>Description:</strong> CLI Todo application for managing tasks efficiently.</p>
         <p><strong>Features:</strong> Add/update/delete tasks</p>
         <p>
@@ -142,8 +141,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
         <legend style="font-weight:bold; color:#7B2CBF;">💰 Expense Tracker</legend>
-        <p><strong>Tech:</strong> Java, Maven</p>
-        <p><strong>Category:</strong> Database</p>
+        <p><strong>Tech:</strong> Java,Maven,Database</p>
         <p><strong>Description:</strong> Track income and expenses with visual dashboard and reports.</p>
         <p><strong>Features:</strong> Add/Update/Delete</p>
         <p>
@@ -157,8 +155,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
         <legend style="font-weight:bold; color:#7B2CBF;">🛒 E-Commerce Website</legend>
-        <p><strong>Tech:</strong> Java, Maven, Spring</p>
-        <p><strong>Category:</strong> Database </p>
+        <p><strong>Tech:</strong> Java, Spring, Database</p>
         <p><strong>Description:</strong> Full-stack web application for online shopping with admin dashboard.</p>
         <p><strong>Features:</strong> User authentication, product & order management, secure checkout.</p>
         <p>
