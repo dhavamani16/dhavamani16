@@ -65,8 +65,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ### 🎓 Batches
 
 <p float="left">
-  <img src="assets/image1.png" width="400" />![WhatsApp Image 2025-10-06 at 15 41 08_15ac1a2c](https://github.com/user-attachments/assets/e82be24a-ee15-4f52-ae6e-8596378ca296)
-
+  <img src="https://github.com/user-attachments/assets/e82be24a-ee15-4f52-ae6e-8596378ca296" width="400" style="margin-right:10px;" />
   <img src="assets/image2.png" width="400" />
 </p>
 
