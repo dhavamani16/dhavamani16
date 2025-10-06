@@ -100,10 +100,10 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 <h2 align="center">🌟 Popular Repositories</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px;">
+<div style="display: flex; justify-content: center; gap:20px; flex-wrap: wrap;">
 
   <!-- Repo 1 -->
-  <fieldset style="width:45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
     <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">💰 Expanse Tracker</legend>
     <p>Java-based expense management system using Swing and MySQL.</p>
     <img src="https://raw.githubusercontent.com/dhavamani16/ExpanseTrack/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
@@ -115,7 +115,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   </fieldset>
 
   <!-- Repo 2 -->
-  <fieldset style="width:45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
     <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🛒 E-Commerce App</legend>
     <p>Full-stack web application with Spring Boot and Maven.</p>
     <img src="https://raw.githubusercontent.com/dhavamani16/Ecommerce/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
@@ -128,11 +128,11 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 </div>
 
-<!-- Second row for next 2 repos -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px; margin-top:20px;">
+<!-- Second row -->
+<div style="display: flex; justify-content: center; gap:20px; flex-wrap: wrap; margin-top:20px;">
 
   <!-- Repo 3 -->
-  <fieldset style="width:45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
     <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🌐 Portfolio Website</legend>
     <p>Personal portfolio website using HTML, CSS, and JavaScript.</p>
     <img src="https://raw.githubusercontent.com/dhavamani16/Portfolio/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
@@ -144,7 +144,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   </fieldset>
 
   <!-- Repo 4 -->
-  <fieldset style="width:45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
     <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🧩 LeetCode Solutions</legend>
     <p>Collection of algorithm & DSA solutions in C++, Java, and Python.</p>
     <img src="https://raw.githubusercontent.com/dhavamani16/LeetCode/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
@@ -156,12 +156,6 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   </fieldset>
 
 </div>
-
-
-
-
-
-
 
 
 <!--
