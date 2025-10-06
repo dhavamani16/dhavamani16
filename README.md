@@ -5,6 +5,7 @@
 <table>
 <tr>
 <td>
+  
 ### 👨‍💻 About Me
   
 I am Dhavamani, an engineering professional passionate about **learning, innovation, and problem solving**.  
@@ -21,7 +22,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 </td>
 <td>
-  <img src="https://github.com/user-attachments/assets/a5ecef3c-6bbc-4aa5-9c29-befd2628571d" width="300" />
+  <img src="https://github.com/user-attachments/assets/a5ecef3c-6bbc-4aa5-9c29-befd2628571d" width="200" />
 </td>
 </tr>
 </table>
