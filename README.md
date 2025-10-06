@@ -1,11 +1,10 @@
 
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://img.freepik.com/premium-photo/white-black-geometric-squares-white-background-wallpaper_975254-169.jpg?w=996" width="800" />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
-              font-size: 48px; font-weight: bold; color: black; background: rgba(255,255,255,0.5); padding: 10px;">
-    Dhavamani A
-  </div>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Dhavamani%20A&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;☕+Java+|+Spring+Boot;🧠+DSA+Enthusiast" alt="Typing SVG" />
+</p>
+
 
 
 <table>
