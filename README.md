@@ -1,9 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Dhavamani%20A&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;☕+Java+|+Spring+Boot;🧠+DSA+Enthusiast" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    💻 Full-Stack Developer | Java | Spring Boot | DSA Enthusiast 🚀
+  </marquee>
+</h3>
+
 
 
 
