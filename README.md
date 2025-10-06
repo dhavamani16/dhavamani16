@@ -39,7 +39,9 @@ while improving my **C++ and Java** problem-solving skills.
 ---
 
 ###  My Resume
-📎 [View My Resume (PDF)](https://drive.google.com/file/d/1pNpEkQl1Ky1icCJeNCQ27sGEmm-STUqk/view?usp=drivesdk)
+## 📄 Resume
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1pNpEkQl1Ky1icCJeNCQ27sGEmm-STUqk/view?usp=drivesdk)
+
 
 ---
 
