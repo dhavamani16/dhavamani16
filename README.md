@@ -119,8 +119,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
         </p>
       </fieldset>
     </td>
-
-    <!-- Project 2 -->
+<!-- Project 2 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
         <legend style="font-weight:bold; color:#7B2CBF;">📝 TodoList Maven</legend>
@@ -154,8 +153,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
         </p>
       </fieldset>
     </td>
-
-    <!-- Project 4 -->
+<!-- Project 4 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
         <legend style="font-weight:bold; color:#7B2CBF;">🛒 E-Commerce Website</legend>
