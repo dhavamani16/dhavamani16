@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there I am Dhavamani👋
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=200&section=header&text=Dhavamani%20A&fontSize=40&fontColor=000&animation=fadeIn" />
+
 
 
 <h3 align="center">Full-Stack Developer | C++ | Spring Boot</h3>
