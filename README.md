@@ -1,4 +1,5 @@
-## Hi👋 I am Dhavamani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Dhavamani%20A&fontSize=40&fontColor=fff&animation=fadeIn" />
+
 
 
 
