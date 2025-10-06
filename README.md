@@ -45,7 +45,6 @@ while improving my **C++ and Java** problem-solving skills.
 ---
 
 ###  Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?logo=firefox&logoColor=white)](https://your-portfolio-link)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](kit27.cse16@gmail.com)
 
