@@ -66,7 +66,8 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 <p float="left">
   <img src="https://codolio.com/profile/DHAVAMANI A /card" width="400" style="margin-right:10px;" />
-  <img src="assets/image2.png" width="400" />
+  <img src="<img width="620" height="655" alt="Screenshot 2025-10-06 153100" src="https://github.com/user-attachments/assets/ec8ffdc3-6378-4165-8710-ccd514c03731" />
+" width="400" />
 </p>
 
 
