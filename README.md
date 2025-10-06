@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" width="800" />
-</p>
+
 <div style="position: relative; text-align: center; color: white;">
   <img src="https://img.freepik.com/premium-photo/white-black-geometric-squares-white-background-wallpaper_975254-169.jpg?w=996" width="800" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
