@@ -100,10 +100,10 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 <h2 align="center">🌟 Popular Repositories</h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap:20px;">
 
-  <!-- Repo 1 -->
-  <fieldset style="width:60%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+  <!-- Row 1, Column 1 -->
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
     <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">💰 Expanse Tracker</legend>
     <p>Java-based expense management system using Swing and MySQL.</p>
     <img src="https://raw.githubusercontent.com/dhavamani16/ExpanseTrack/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
@@ -114,8 +114,8 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     </p>
   </fieldset>
 
-  <!-- Repo 2 -->
-  <fieldset style="width:60%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+  <!-- Row 1, Column 2 -->
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
     <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🛒 E-Commerce App</legend>
     <p>Full-stack web application with Spring Boot and Maven.</p>
     <img src="https://raw.githubusercontent.com/dhavamani16/Ecommerce/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
@@ -126,8 +126,31 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     </p>
   </fieldset>
 
-</div>
+  <!-- Row 2, Column 1 -->
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🌐 Portfolio Website</legend>
+    <p>Personal portfolio website using HTML, CSS, and JavaScript.</p>
+    <img src="https://raw.githubusercontent.com/dhavamani16/Portfolio/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
+    <p>
+      <a href="https://github.com/dhavamani16/Portfolio">
+        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+  </fieldset>
 
+  <!-- Row 2, Column 2 -->
+  <fieldset style="flex: 0 0 45%; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 0 15px #7B2CBF;">
+    <legend style="font-weight:bold; color:#7B2CBF; font-size:18px;">🧩 LeetCode Solutions</legend>
+    <p>Collection of algorithm & DSA solutions in C++, Java, and Python.</p>
+    <img src="https://raw.githubusercontent.com/dhavamani16/LeetCode/main/assets/screenshot.png" width="100%" style="border-radius:10px;" />
+    <p>
+      <a href="https://github.com/dhavamani16/LeetCode">
+        <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+  </fieldset>
+
+</div>
 
 <!--
 **dhavamani16/dhavamani16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
