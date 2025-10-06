@@ -53,17 +53,25 @@ while improving my **C++ and Java** problem-solving skills.
 ###  GitHub Stats
 ![Dhavamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavamani16&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&layout=compact&theme=radical)
+![Dhavamani16's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16)
+
 
 ---
 
 ###  Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?logo=firefox&logoColor=white)](https://your-portfolio-link)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](kit27.cse16@gmail.com)
 
 [My LeetCode Profile]
 "<img width="1261" height="652" alt="Screenshot 2025-10-06 133227" src="https://github.com/user-attachments/assets/23602769-d2b7-4508-8092-039481dfbd12" />
 
-![Dhavamani16's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16)
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
