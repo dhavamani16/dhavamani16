@@ -52,6 +52,9 @@ while improving my **C++ and Java** problem-solving skills.
 [My LeetCode Profile]
 "<img width="1261" height="652" alt="Screenshot 2025-10-06 133227" src="https://github.com/user-attachments/assets/23602769-d2b7-4508-8092-039481dfbd12" />
 
+![Dhavamani16's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16)
+
+
 
 
 
