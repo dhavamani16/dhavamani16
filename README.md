@@ -75,45 +75,9 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-<h2 align="center">💼 Projects</h2>
+## 🧠 My LeetCode Stats
 
-<div align="center">
-  <!-- Project 1 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
-    <h3>💰 Expanse Tracker</h3>
-    <p>Java-based expense management app using Swing and MySQL.</p>
-    <a href="https://github.com/dhavamani16/ExpanseTrack">
-      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
-    <h3>🛒 E-Commerce App</h3>
-    <p>Full-stack e-commerce website using Spring Boot and Maven.</p>
-    <a href="https://github.com/dhavamani16/Ecommerce">
-      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
-    <h3>🌐 Portfolio Website</h3>
-    <p>Personal portfolio built with HTML, CSS, and JavaScript.</p>
-    <a href="https://github.com/dhavamani16/Portfolio">
-      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-
-  <!-- Project 4 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
-    <h3>🧩 LeetCode Solutions</h3>
-    <p>Solutions to algorithm problems in C++, Java, and Python.</p>
-    <a href="https://github.com/dhavamani16/LeetCode">
-      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Dhavamani_16/)
 
 ---
 
