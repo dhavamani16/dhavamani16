@@ -1,15 +1,12 @@
-<img src="assets/banner.gif" alt="Dhavamani A Banner" />
+# Dhavamani A
 
-
-
-
-
-
-
-
-
-
-<h3 align="center">Full-Stack Developer | C++ | Spring Boot</h3>
+### 👨‍💻 About Me
+I am Dhavamani, an engineering professional passionate about **learning, innovation, and problem solving**.  
+I am skilled in **C++, C, Python** with experience in **web development**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani16/) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhavamani16) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/dhavamani16/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
