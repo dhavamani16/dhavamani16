@@ -1,11 +1,6 @@
 
-<img width="888" height="255" alt="Screenshot 2025-10-06 184948" src="https://github.com/user-attachments/assets/ac60eea9-d165-4502-aad4-5dce8c5fe1b7" />
+<img width="526" height="264" alt="image" src="https://github.com/user-attachments/assets/c9a24271-2174-4cf8-82e0-9705aea0e31a" />
 
-<h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-     Full-Stack Developer | C++ | Spring Boot 
-  </marquee>
-</h3>
 
 
 
