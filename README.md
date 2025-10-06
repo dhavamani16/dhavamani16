@@ -58,10 +58,15 @@ while improving my **C++ and Java** problem-solving skills.
 
 ---
 
-###  Connect with Me
+## 🔗 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](kit27.cse16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhavamani16)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/)
 
+
+
+---
 [My LeetCode Profile]
 "<img width="1261" height="652" alt="Screenshot 2025-10-06 133227" src="https://github.com/user-attachments/assets/23602769-d2b7-4508-8092-039481dfbd12" />
 
