@@ -75,10 +75,12 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-### 🎓 Batches
+### 🚀 Projects
 
-
-
+- [Expanse Tracker](https://github.com/dhavamani16/ExpanseTrack) — A Java-based expense management system using Swing and MySQL.  
+- [E-Commerce App](https://github.com/dhavamani16/Ecommerce) — Spring Boot and Maven powered web application.  
+- [Portfolio Website](https://github.com/dhavamani16/Portfolio) — Personal portfolio using HTML, CSS, and JavaScript.  
+- [LeetCode Solutions](https://github.com/dhavamani16/LeetCode) — Collection of coding problem solutions in C++ and Java.  
 
 ---
 ## 🔗 Connect with me
