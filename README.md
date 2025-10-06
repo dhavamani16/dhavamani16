@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    💻 Full-Stack Developer | Java | Spring Boot | DSA Enthusiast 🚀
+     Full-Stack Developer | Java | Spring Boot | DSA Enthusiast 
   </marquee>
 </h3>
 
