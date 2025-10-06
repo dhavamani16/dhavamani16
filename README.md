@@ -61,10 +61,18 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
+
+### 🎓 Batches
+
+<img width="310" height="328" alt="Screenshot 2025-10-06 153411" src="https://github.com/user-attachments/assets/60de4b59-f69b-4dcd-90d0-2da5accb6819" />
+
+
+---
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhavamani16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/)
+
 
 
 
