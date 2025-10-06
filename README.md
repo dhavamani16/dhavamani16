@@ -107,13 +107,12 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     <!-- Project 1 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">🧩 LeetCode Solutions</legend>
+        <legend style="font-weight:bold; color:#7B2CBF;">LeetCode Solutions</legend>
         <p><strong>Tech:</strong> C++</p>
-        <p><strong>Category:</strong> Easy, Medium, Hard</p>
         <p><strong>Description:</strong> Comprehensive collection of algorithm & DSA solutions covering all difficulty levels.</p>
         <p><strong>Features:</strong> Efficient problem-solving, categorized problems, common algorithm patterns.</p>
         <p>
-          <a href="https://leetcode.com/yourusername/">
+          <a href="https://github.com/dhavamani16/Leedcode-Problems">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white"/>
           </a>
         </p>
@@ -127,7 +126,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
         <p><strong>Description:</strong> CLI Todo application for managing tasks efficiently.</p>
         <p><strong>Features:</strong> Add/update/delete tasks</p>
         <p>
-          <a href="https://github.com/dhavamani16/TodoMaven">
+          <a href="https://github.com/dhavamani16/TODOLIST_APP">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -140,12 +139,12 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     <!-- Project 3 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">💰 Expense Tracker</legend>
+        <legend style="font-weight:bold; color:#7B2CBF;">Expense Tracker</legend>
         <p><strong>Tech:</strong> Java,Maven,Database</p>
         <p><strong>Description:</strong> Track income and expenses with visual dashboard and reports.</p>
         <p><strong>Features:</strong> Add/Update/Delete</p>
         <p>
-          <a href="https://github.com/dhavamani16/ExpenseTracker">
+          <a href="https://github.com/dhavamani16/ExpanseTracker">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -154,12 +153,12 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 <!-- Project 4 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">🛒 E-Commerce Website</legend>
+        <legend style="font-weight:bold; color:#7B2CBF;">E-Commerce Website</legend>
         <p><strong>Tech:</strong> Java, Spring, Database</p>
         <p><strong>Description:</strong> Full-stack web application for online shopping with admin dashboard.</p>
         <p><strong>Features:</strong> User authentication, product & order management, secure checkout.</p>
         <p>
-          <a href="https://github.com/dhavamani16/Ecommerce">
+          <a href="https://github.com/dhavamani16/Ecommerce_Website">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
