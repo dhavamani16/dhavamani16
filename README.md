@@ -98,7 +98,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-<h2 align="center">🌟 Projects</h2>
+<h2 align="center"> Projects</h2>
 
 <table align="center" cellspacing="20">
 
@@ -122,11 +122,11 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 <!-- Project 2 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">📝 TodoList Maven</legend>
+        <legend style="font-weight:bold; color:#7B2CBF;"> TodoList </legend>
         <p><strong>Tech:</strong> Java, Maven</p>
         <p><strong>Category:</strong> Database</p>
         <p><strong>Description:</strong> CLI Todo application for managing tasks efficiently.</p>
-        <p><strong>Features:</strong> Add/update/delete tasks, priority management, data persistence.</p>
+        <p><strong>Features:</strong> Add/update/delete tasks</p>
         <p>
           <a href="https://github.com/dhavamani16/TodoMaven">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -145,7 +145,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
         <p><strong>Tech:</strong> Java, Maven</p>
         <p><strong>Category:</strong> Database</p>
         <p><strong>Description:</strong> Track income and expenses with visual dashboard and reports.</p>
-        <p><strong>Features:</strong> CRUD transactions, charts, financial analysis, priorities.</p>
+        <p><strong>Features:</strong> Add/Update/Delete</p>
         <p>
           <a href="https://github.com/dhavamani16/ExpenseTracker">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -158,7 +158,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
         <legend style="font-weight:bold; color:#7B2CBF;">🛒 E-Commerce Website</legend>
         <p><strong>Tech:</strong> Java, Maven, Spring</p>
-        <p><strong>Category:</strong> Database / Full-Stack</p>
+        <p><strong>Category:</strong> Database </p>
         <p><strong>Description:</strong> Full-stack web application for online shopping with admin dashboard.</p>
         <p><strong>Features:</strong> User authentication, product & order management, secure checkout.</p>
         <p>
