@@ -78,14 +78,15 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ##  My LeetCode Stats
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&ext=heatmap)
-[![CodeChef](https://codechef-readme-stats.vercel.app/api/user?username=dhavamani_16&showTitle=true&theme=dark)](https://www.codechef.com/users/dhavamani_16)
 
 ---
 
-##  Connect with me
+## Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhavamani16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/)
+[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/DHAVAMANIA)
 
 
 
