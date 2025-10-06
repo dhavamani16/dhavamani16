@@ -65,9 +65,10 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ### 🎓 Batches
 
 <p float="left">
-  <img src="https://codolio.com/profile/DHAVAMANI A /card" width="400" style="margin-right:10px;" />
-  <img src="<img width="620" height="655" alt="Screenshot 2025-10-06 153100" src="https://github.com/user-attachments/assets/ec8ffdc3-6378-4165-8710-ccd514c03731" />
-" width="400" />
+  <img width="620" height="655" alt="Screenshot 2025-10-06 153100" src="https://github.com/user-attachments/assets/59f96c33-5dc5-4c19-b5a1-6228c0f95f4d" />
+  <img width="620" height="655" alt="profileCard (3)" src="https://github.com/user-attachments/assets/a5ecef3c-6bbc-4aa5-9c29-befd2628571d" />
+
+
 </p>
 
 
