@@ -64,7 +64,11 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ### 🎓 Batches
 
-<img width="310" height="328" alt="Screenshot 2025-10-06 153411" src="https://github.com/user-attachments/assets/60de4b59-f69b-4dcd-90d0-2da5accb6819" />
+<p float="left">
+  <img src="assets/image1.png" width="400" />![WhatsApp Image 2025-10-06 at 15 41 08_15ac1a2c](https://github.com/user-attachments/assets/e82be24a-ee15-4f52-ae6e-8596378ca296)
+
+  <img src="assets/image2.png" width="400" />
+</p>
 
 
 ---
