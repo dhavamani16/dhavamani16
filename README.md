@@ -2,17 +2,28 @@
 
 # Dhavamani A
 
+<table>
+<tr>
+<td>
+
 ### 👨‍💻 About Me
 I am Dhavamani, an engineering professional passionate about **learning, innovation, and problem solving**.  
-I have strong skills in **C++, C, and Python** and enjoy tackling challenging problems.  
+I have strong skills in **C++, C, Python, and Java** and enjoy tackling challenging problems.  
 I have experience in **web development** and building projects that make an impact.  
 I am constantly exploring new technologies and improving my programming expertise.  
-I love collaborating, contributing to open source, and sharing knowledge with the community. 
-
+I love collaborating, contributing to open source, and sharing knowledge with the community.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhavamani_16) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-kit27.cse16@example.com)
+
+</td>
+<td>
+  <img src="https://github.com/user-attachments/assets/a5ecef3c-6bbc-4aa5-9c29-befd2628571d" width="300" />
+</td>
+</tr>
+</table>
+
 
 ---
 
