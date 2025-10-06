@@ -50,6 +50,8 @@ while improving my **C++ and Java** problem-solving skills.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](kit27.cse16@gmail.com)
 
 [My LeetCode Profile](https://leetcode.com/u/Dhavamani_16/)
+<img src="<img width="1261" height="652" alt="Screenshot 2025-10-06 133227" src="https://github.com/user-attachments/assets/23602769-d2b7-4508-8092-039481dfbd12" />
+
 
 
 
