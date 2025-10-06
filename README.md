@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=shimmer&color=FF00FF&height=200&section=header&text=Dhavamani%20A&fontSize=45&fontColor=fff&animation=fadeIn" />
+<img src="https://link-to-your-uploaded-image.com/banner.png" alt="Dhavamani A Banner" />
+
 
 
 
