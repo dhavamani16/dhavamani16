@@ -1,4 +1,5 @@
-<img src="https://link-to-your-uploaded-image.com/banner.png" alt="Dhavamani A Banner" />
+<img src="assets/banner.gif" alt="Dhavamani A Banner" />
+
 
 
 
