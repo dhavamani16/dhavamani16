@@ -6,7 +6,7 @@
 <tr>
 <td>
   
-### 👨‍💻 About Me
+###  About Me
   
 I am Dhavamani, an engineering professional passionate about **learning, innovation, and problem solving**.  
 I have strong skills in **C++, C, Python, and Java** and enjoy tackling challenging problems.  
@@ -30,14 +30,14 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-### 🚀 Building Modern Web Applications
+###  Building Modern Web Applications
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhavamani16&color=7B2CBF)
 ![Followers](https://img.shields.io/github/followers/dhavamani16?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/dhavamani16?label=Stars&style=social)
 
 ---
-### 💻 Technical Skills
+###  Technical Skills
 
 **Problem Solving:**  
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
@@ -70,19 +70,53 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-### 🚀 Projects
+<h2 align="center">💼 Projects</h2>
 
-- [Expanse Tracker](https://github.com/dhavamani16/ExpanseTrack) — A Java-based expense management system using Swing and MySQL.  
-- [E-Commerce App](https://github.com/dhavamani16/Ecommerce) — Spring Boot and Maven powered web application.  
-- [Portfolio Website](https://github.com/dhavamani16/Portfolio) — Personal portfolio using HTML, CSS, and JavaScript.  
-- [LeetCode Solutions](https://github.com/dhavamani16/LeetCode) — Collection of coding problem solutions in C++ and Java.  
+<div align="center">
+  <!-- Project 1 -->
+  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
+    <h3>💰 Expanse Tracker</h3>
+    <p>Java-based expense management app using Swing and MySQL.</p>
+    <a href="https://github.com/dhavamani16/ExpanseTrack">
+      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
+    <h3>🛒 E-Commerce App</h3>
+    <p>Full-stack e-commerce website using Spring Boot and Maven.</p>
+    <a href="https://github.com/dhavamani16/Ecommerce">
+      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
+    <h3>🌐 Portfolio Website</h3>
+    <p>Personal portfolio built with HTML, CSS, and JavaScript.</p>
+    <a href="https://github.com/dhavamani16/Portfolio">
+      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+
+  <!-- Project 4 -->
+  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px; border: 2px solid #7B2CBF; border-radius: 15px; padding: 15px; box-shadow: 0px 0px 10px #7B2CBF;">
+    <h3>🧩 LeetCode Solutions</h3>
+    <p>Solutions to algorithm problems in C++, Java, and Python.</p>
+    <a href="https://github.com/dhavamani16/LeetCode">
+      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</div>
 
 ---
+
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhavamani16)
