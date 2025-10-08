@@ -76,6 +76,8 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ##  GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Dhavamani16's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16)
 ---
 
 ##  My LeetCode Stats
