@@ -1,5 +1,7 @@
 
-<img width="1000" height="264" alt="image" src="https://github.com/user-attachments/assets/c9a24271-2174-4cf8-82e0-9705aea0e31a" />
+
+<img width="1000" height="264" alt="profileCard (1)" src="https://github.com/user-attachments/assets/754c23fa-8473-48d2-a3b4-77040e03ab21" />
+
 
 
 
