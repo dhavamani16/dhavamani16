@@ -94,7 +94,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhavamani16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhavamani_16/)
-[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/DHAVAMANIA)
+[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/DHAVAMANI_16)
 
 ---
 
@@ -106,18 +106,21 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   <tr>
     <!-- Project 1 -->
     <td>
-      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">LeetCode Solutions</legend>
-        <p><strong>Tech:</strong> C++</p>
-        <p><strong>Description:</strong> Comprehensive collection of algorithm & DSA solutions covering all difficulty levels.</p>
-        <p><strong>Features:</strong> Efficient problem-solving, categorized problems, common algorithm patterns.</p>
-        <p>
-          <a href="https://github.com/dhavamani16/Leedcode-Problems">
-            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-          </a>
-        </p>
-      </fieldset>
-    </td>
+      <fieldset style="width:340px; border:2px solid #7B2CBF; border-radius:15px; padding:15px; box-shadow:0 4px 20px rgba(123,44,191,0.4); font-family:Arial, sans-serif;">
+  <legend style="font-weight:bold; color:#7B2CBF; font-size:1.2em;">Signboard Translator</legend>
+  
+  <p><strong>Tech:</strong> Flutter, Flask, Tesseract OCR</p>
+  <p><strong>Description:</strong> AI-powered system that extracts text from signboard images and translates it into multiple languages, including Tamil.</p>
+  <p><strong>Features:</strong> Real-time text extraction, multilingual translation, audio output using gTTS, accessibility improvement.</p>
+  
+  <p style="text-align:center; margin-top:15px;">
+    <a href="https://github.com/dhavamani16/Signboard-Translator" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    </a>
+  </p>
+</fieldset>
+
+</td>
 <!-- Project 2 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
