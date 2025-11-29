@@ -72,7 +72,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ---
 
 ###  GitHub Stats
-![Dhavamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavamani16&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&layout=compact&theme=radical)
 
 
