@@ -125,18 +125,25 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 </td>
 <!-- Project 2 -->
     <td>
-      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;"> TodoList </legend>
-        <p><strong>Tech:</strong> Java, Maven,Database</p>
-        <p><strong>Description:</strong> CLI Todo application for managing tasks efficiently.</p>
-        <p><strong>Features:</strong> Add/update/delete tasks</p>
-        <p>
-          <a href="https://github.com/dhavamani16/TODOLIST_APP">
-            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </fieldset>
-    </td>
+      <fieldset style="width:340px; border:2px solid #1F618D; border-radius:15px; padding:15px; box-shadow:0 4px 20px rgba(31,97,141,0.4); font-family:Arial, sans-serif;">
+  <legend style="font-weight:bold; color:#1F618D; font-size:1.2em;">Mental Health Chatbot</legend>
+  
+  <p><strong>Tech:</strong> FastAPI, Python, OpenAI GPT</p>
+  
+  <p><strong>Description:</strong> AI-powered system that provides supportive responses and guidance for mental health queries. Users can ask questions or describe feelings, and the chatbot responds empathetically using curated datasets and OpenAI GPT models.</p>
+  
+  <p><strong>Features:</strong> 
+    Real-time AI responses, dataset-based context, interactive web/API interface, easy frontend integration.
+  </p>
+  
+  <p style="text-align:center; margin-top:15px;">
+    <a href="https://github.com/dhavamani16/Mental-Health-Chatbot" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/View%20Project-1F618D?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    </a>
+  </p>
+</fieldset>
+
+  </td>
   </tr>
 
   <!-- Row 2 -->
@@ -158,12 +165,12 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 <!-- Project 4 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">E-Commerce Website</legend>
-        <p><strong>Tech:</strong> Java, Spring, Database</p>
-        <p><strong>Description:</strong> Full-stack web application for online shopping with admin dashboard.</p>
-        <p><strong>Features:</strong> User authentication, product & order management, secure checkout.</p>
+        <legend style="font-weight:bold; color:#7B2CBF;"> TodoList </legend>
+        <p><strong>Tech:</strong> Java, Maven,Database</p>
+        <p><strong>Description:</strong> CLI Todo application for managing tasks efficiently.</p>
+        <p><strong>Features:</strong> Add/update/delete tasks</p>
         <p>
-          <a href="https://github.com/dhavamani16/Ecommerce_Website">
+          <a href="https://github.com/dhavamani16/TODOLIST_APP">
             <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
