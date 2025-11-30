@@ -137,7 +137,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   </p>
   
   <p style="text-align:center; margin-top:15px;">
-    <a href="https://github.com/dhavamani16/Mental-Health-Chatbot" target="_blank" style="text-decoration:none;">
+    <a href="https://github.com/dhavamani16/Health_Chatbot" target="_blank" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/View%20Project-1F618D?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
     </a>
   </p>
