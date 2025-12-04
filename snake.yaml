@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: dhavamani16
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-artifact
+          path: dist/github-contribution-grid-snake.svg
+
+      - uses: actions/upload-pages-artifact@v2
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/deploy-pages@v2
