@@ -103,8 +103,6 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ![](https://nirzak-streak-stats.vercel.app/?user=dhavamani16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
