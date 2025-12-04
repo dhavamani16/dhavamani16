@@ -90,11 +90,12 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-##  My LeetCode Stats
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dhavamani_16?theme=dark&ext=heatmap)
-
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Connect with me
 
