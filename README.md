@@ -74,6 +74,14 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![Dhavamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16&bg_color=0d0d0d&color=914c9e&line=895880&point=7c8383&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhavamani16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dhavamani16&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ##  GitHub Trophies
 
