@@ -84,10 +84,6 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ###
 
-<img src="https://raw.githubusercontent.com/dhavamani16/dhavamani16/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
