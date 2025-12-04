@@ -82,21 +82,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ---
 [![](https://visitcount.itsvg.in/api?id=dhavamani16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-##  GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
-
-<p align="center">
-  <img src="https://github.com/dhavamani16/dhavamani16/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhavamani16)
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -156,18 +142,21 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   <tr>
     <!-- Project 3 -->
     <td>
-      <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
-        <legend style="font-weight:bold; color:#7B2CBF;">Expense Tracker</legend>
-        <p><strong>Tech:</strong> Java,Maven,Database</p>
-        <p><strong>Description:</strong> Track income and expenses with visual dashboard and reports.</p>
-        <p><strong>Features:</strong> Add/Update/Delete</p>
-        <p>
-          <a href="https://github.com/dhavamani16/ExpanseTracker">
-            <img src="https://img.shields.io/badge/View%20Project-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </fieldset>
-    </td>
+      <fieldset style="width:340px; border:2px solid #0A66C2; border-radius:15px; padding:15px; box-shadow:0 4px 20px rgba(10,102,194,0.4); font-family:Arial, sans-serif;">
+  <legend style="font-weight:bold; color:#0A66C2; font-size:1.2em;">LinkedIn Post Generator</legend>
+  
+  <p><strong>Tech:</strong> Streamlit, Python, LangChain, Groq API</p>
+  <p><strong>Description:</strong> AI-powered tool that automatically generates engaging LinkedIn posts based on tags, tone, language, and length preferences.</p>
+  <p><strong>Features:</strong> Topic-based generation, multiple languages, short/medium/long post output, dataset preprocessing, and reusable LLM prompt templates.</p>
+  
+  <p style="text-align:center; margin-top:15px;">
+    <a href="https://github.com/dhavamani16/linkedinPostGenerator" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    </a>
+  </p>
+</fieldset>
+
+  </td>
 <!-- Project 4 -->
     <td>
       <fieldset style="width:320px; border:2px solid #7B2CBF; border-radius:15px; padding:10px; box-shadow:0 0 15px #7B2CBF;">
