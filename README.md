@@ -91,11 +91,11 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/dhavamani16/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Connect with me
 
