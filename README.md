@@ -71,10 +71,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-###  GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&layout=compact&theme=radical)
-
+[![Dhavamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16&bg_color=0d0d0d&color=914c9e&line=895880&point=7c8383&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
