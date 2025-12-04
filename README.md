@@ -44,20 +44,17 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 ###  Technical Skills
-
 **Problem Solving:**  
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)  
-
 **Frontend:**  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
 **Backend & Database:**  
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/) 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
@@ -70,8 +67,10 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 [![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1iwbvDSJMQnCSzbpRpHXkjY2CMaoxd4HT/view)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Dhavamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16&bg_color=0d0d0d&color=914c9e&line=895880&point=7c8383&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dhavamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16&bg_color=0d0d0d&color=914c9e&line=895880&point=7c8383&area=true&hide_border=true)](https://github.com/dhavamani16/github-readme)
 
 ---
 # 📊 GitHub Stats:
@@ -143,7 +142,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
     <!-- Project 3 -->
     <td>
       <fieldset style="width:340px; border:2px solid #0A66C2; border-radius:15px; padding:15px; box-shadow:0 4px 20px rgba(10,102,194,0.4); font-family:Arial, sans-serif;">
-  <legend style="font-weight:bold; color:#0A66C2; font-size:1.2em;">LinkedIn Post Generator</legend>
+  <legend style="font-weight:bold; color:#0A66C2; font-size:1.2em;">Post Generator</legend>
   
   <p><strong>Tech:</strong> Streamlit, Python, LangChain, Groq API</p>
   <p><strong>Description:</strong> AI-powered tool that automatically generates engaging LinkedIn posts based on tags, tone, language, and length preferences.</p>
