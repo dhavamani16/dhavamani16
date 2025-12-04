@@ -90,13 +90,13 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-<div align="center">
-  <img src="https://github.com/dhavamani16/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/dhavamani16/dhavamani16/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=dhavamani16)
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavamani-a-7b452a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
