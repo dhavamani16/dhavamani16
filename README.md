@@ -88,23 +88,15 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavamani16&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
 ---
 
 ###  My Resume
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1iwbvDSJMQnCSzbpRpHXkjY2CMaoxd4HT/view)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1xe4CA9zF1biaqdJjn1XrfKwpiXVcceV0/view?usp=drive_link)
 
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhavamani16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
----
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -205,6 +197,14 @@ I love collaborating, contributing to open source, and sharing knowledge with th
   </tr>
 
 </table>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhavamani16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavamani16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
 
 
 
