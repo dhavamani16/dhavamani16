@@ -97,8 +97,6 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhavamani16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ##  My LeetCode Stats
