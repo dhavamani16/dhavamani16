@@ -92,7 +92,7 @@ I love collaborating, contributing to open source, and sharing knowledge with th
 
 ###  My Resume
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1xe4CA9zF1biaqdJjn1XrfKwpiXVcceV0/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1lTpQ_6VGoAp-ezO9-VsKsYNLr6slDf7-/view)
 
 
 ---
